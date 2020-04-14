@@ -1,2 +1,2 @@
 # MAT4410
-Innføring i numerisk analyse ved UiO
+Numerical Analysis at UiO
